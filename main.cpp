@@ -11,7 +11,7 @@ int main() {
 
       while(numero < n) {
 
-          if(numero % 2 == 1)    {
+          if(numero % 2 == 1) {
               cout << numero << endl;
           }
 
