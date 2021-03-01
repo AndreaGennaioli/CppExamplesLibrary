@@ -1,17 +1,24 @@
+/**
+*	Numeri dispari minori del numero dato (partendo  da zero) con ciclo While
+*	
+*	Autore: Andrea Gennaioli
+*	Consegna: realizzare un algoritmo che inserito il numero, restituisce tutti i numeri dispari minori del numero dato (partendo da zero)
+*/
+
 #include <iostream>
 
 using namespace std;
 
 int main () {
-	int n = 0; // dichiaro e inizializzo la il numero che verrà assegato dall' utente
-	int numero = 0; // dichiaro e inizializzo il numero a qui assegnerò valori in modo crescente +1 all'interno del while riga 12 
+	int n = 0; // dichiaro e inizializzo la il numero che verrï¿½ assegato dall' utente
+	int numero = 0; // dichiaro e inizializzo il numero a qui assegnerï¿½ valori in modo crescente +1 all'interno del while riga 12 
 
 	cout << "Inserisci numero: "; // stampo in console una frase
 	cin >> n; // l'utente inserisce il numero
 
-	while (numero < n) { // ciclo while se numero (il cui il valore aumenterà di +1 ad ogni compmento del ciclo) è minore di n (il numero dato dall'utente)
+	while (numero < n) { // ciclo while se numero (il cui il valore aumenterï¿½ di +1 ad ogni compmento del ciclo) ï¿½ minore di n (il numero dato dall'utente)
 
-    	if (numero % 2 == 1) { // se il numero è dispari lo stampa in console
+    	if (numero % 2 == 1) { // se il numero ï¿½ dispari lo stampa in console
         	cout << numero << endl;
     	}
     	
