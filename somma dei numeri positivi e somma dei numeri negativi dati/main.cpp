@@ -1,3 +1,10 @@
+/**
+*	somma dei numeri positivi e somma dei numeri negativi
+*	
+*	Autore: Andrea Gennaioli
+*	Consegna: realizzare un algoritmo che faccia la somma dei numeri positivi e la somma dei numeri negativi di N numeri dati
+*/
+
 #include <iostream>
 
 using namespace std;

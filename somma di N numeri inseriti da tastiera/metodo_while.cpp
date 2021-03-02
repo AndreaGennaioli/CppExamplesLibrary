@@ -1,3 +1,10 @@
+/**
+*	somma di N numeri con ciclo While
+*	
+*	Autore: Andrea Gennaioli
+*	Consegna: realizzare un algoritmo che faccia la somma di N numeri inseriti da tastiera
+*/
+
 #include <iostream>
 
 using namespace std;

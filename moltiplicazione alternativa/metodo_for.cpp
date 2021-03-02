@@ -1,3 +1,10 @@
+/**
+*	moltiplicazione alternativa con ciclo For
+*	
+*	Autore: Andrea Gennaioli
+*	Consegna: relizzare un algoritmo che usi la somma per fare moltiplicazioni
+*/
+
 #include <iostream>
 
 using namespace std;

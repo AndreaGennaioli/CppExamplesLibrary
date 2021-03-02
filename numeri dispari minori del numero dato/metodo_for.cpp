@@ -1,5 +1,5 @@
 /**
-*	Numeri dispari minori del numero dato (partendo  da zero)
+*	Numeri dispari minori del numero dato (partendo  da zero) con ciclo For
 *	
 *	Autore: Andrea Gennaioli
 *	Consegna: realizzare un algoritmo che inserito il numero, restituisce tutti i numeri dispari minori del numero dato (partendo da zero)
